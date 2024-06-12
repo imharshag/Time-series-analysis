@@ -4,7 +4,7 @@
 This project focuses on performing a time series analysis of Bitcoin revenue using a naive forecast approach. The goal is to understand the revenue trends and make simple predictions based on historical data.
 
 ### Dataset
-The dataset used in this analysis contains historical Bitcoin revenue data, [Click here for the dataset.](/) .
+The dataset used in this analysis contains historical Bitcoin revenue data, [Click here for the dataset.](/Month_Value_1.csv) .
 
 ### Document 📄
 
